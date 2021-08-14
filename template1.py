@@ -1,3 +1,4 @@
+#This checks the OS of host PC - Unix, Windows, or Linux
 import os, glob, platform
 # Display all SOURCE directories
 os_name = platform.system()
